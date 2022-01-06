@@ -3,7 +3,7 @@
   "homepage_url": "https://github.com/romainricard/google-incognito-opt-out",
   "manifest_version": 2,
   "name": "Google search incognito opt-out",
-  "version": "1.0",
+  "version": "1.1",
   "permissions": ["cookies", "*://*.google.com/"],
   "background": {
     "scripts": ["background.js"]

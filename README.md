@@ -10,7 +10,8 @@ _With the extension_
 
 ⚠️ **You must allow the extension to run in Incognito mode** ⚠️
 
-![](.github/accept.png)
+![For desktop](.github/accept.png)
+![For Android](.github/android.png)
 
 ## How it works
 
